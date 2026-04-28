@@ -1,0 +1,6 @@
+asset,value_score,momentum_score,quality_score,low_volatility_score,market_cap
+ALPHA_BANK,0.78,0.42,0.69,0.55,18.2
+BETA_CHIP,0.35,0.82,0.74,0.48,44.5
+CALM_HEALTH,0.62,0.51,0.81,0.83,22.1
+DELTA_RETAIL,0.57,0.66,0.45,0.52,9.4
+ECO_GRID,0.49,0.73,0.68,0.61,13.8
